@@ -65,4 +65,4 @@ user_groups:
 - Visitors
 ---
 
-Iam a Mathematician working as a DataScientist in NLP and OR areas. I have experience building Research teams and products based on Machine learning . Experienced with theoritical computer science , PAC learning ,SVMs and Statistics. Also a jazz guitarist who plays 8 finger legato style . My latest intersts are Algebraic Geometry and Philosophy of science .
+I am a Mathematician working as a DataScientist in NLP and OR areas. I have experience building Research teams and products based on Machine learning . Experienced with theoritical computer science , PAC learning ,SVMs and Statistics. Also a jazz guitarist who plays eight finger legato style . My latest interests are Algebraic Geometry and Philosophy of science .
