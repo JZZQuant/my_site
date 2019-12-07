@@ -24,12 +24,7 @@ date_format = "Jan 2006"
   location = "Gurgaon"
   date_start = "2017-09-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Building Teams
-  * Model Building
-  """
+  description = """"""
 
 [[experience]]
   title = "Machine Learning Engineer"
@@ -39,5 +34,23 @@ date_format = "Jan 2006"
   date_start = "2015-01-01"
   date_end = "2016-12-31"
   description = """ML Engineer in NLP Space"""
+
+[[experience]]
+  title = "DataScientist"
+  company = "Gunaatita"
+  company_url = ""
+  location = "Noida"
+  date_start = "2013-01-01"
+  date_end = "2016-12-31"
+  description = """Finance & Machine learning"""
+
+[[experience]]
+  title = "Staff SE"
+  company = "National Instruments"
+  company_url = ""
+  location = "Bangalore"
+  date_start = "2010-01-01"
+  date_end = "2013-12-31"
+  description = """Computer Vision and VnV"""
 
 +++
