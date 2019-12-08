@@ -5,9 +5,7 @@ math: true
 diagram: true
 ---
 
-“If Jupiter stands inside the moon, in this year the king will die; variant: there will be an eclipse of the moon and Sun; a great king will die. [---] If Jupiter enters the moon: there will be famine in the Westland; the King of Elam will fall in battle; in Subartu a noble will revolt against his lord. (Hunger 1992, 100: 60) 
-
- [“ Assyrian Astrologer from second Millenia BC " ](https://www.staff.science.uu.nl/~gent0113/va/downloads/ancient_astrology.pdf)
+“If Jupiter stands inside the moon, in this year the king will die; variant: there will be an eclipse of the moon and Sun; a great king will die. [---] If Jupiter enters the moon: there will be famine in the Westland; the King of Elam will fall in battle; in Subartu a noble will revolt against his lord. (Hunger 1992, 100: 60)   -  [“ Assyrian Astrologer from second Millenia BC " ](https://www.staff.science.uu.nl/~gent0113/va/downloads/ancient_astrology.pdf)
 
 To know the future, is an urge that humans are innately born with . It is our apriori(Kant) that we can’t think outside the cause and effect framework that forces us to believe that everything must have a rational cause.We refuse to believe that our misfortunes are not in our control, we refuse to believe that unrelated large movements in our surroundings are going to impact us in ways that we cannot comprehend . Our inability to not reason about things that are out of our control cause insecurity to us ,which are further exploited by people who exactly know how to exploit this apriori urge. There is no much of a difference between the claims of Assyrian astrologers and data scientists of the modern day.
 
