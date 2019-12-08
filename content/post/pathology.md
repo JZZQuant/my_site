@@ -1,5 +1,10 @@
+---
 title: "Pathology of Data science"
 date: 2019-12-08
+math: true
+diagram: true
+---
+$$e^x$$
 
 “If Jupiter stands inside the moon, in this year the king will die; variant: there will be an eclipse of the moon and Sun; a great king will die. [---] If Jupiter enters the moon: there will be famine in the Westland; the King of Elam will fall in battle; in Subartu a noble will revolt against his lord. (Hunger 1992, 100: 60) 
 
